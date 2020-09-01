@@ -1,0 +1,1 @@
+ln -s /home/almc9637/lara-app/storage/app/public /home/almc9637/public_html/storage
