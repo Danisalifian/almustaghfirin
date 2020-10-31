@@ -4,7 +4,7 @@
         <div class="container" style="max-width: 920px">
             <h5 class="font-weight-bolder pt-4">
                 Berita / {{$post->title}}
-                <hr style="border: 1.5px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
+                <hr style="border: 1.5px solid; background-color: #3f51b5; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
             </h5>
             <div class="d-flex justify-content-center">
             <img src="{{ asset('/storage/images/'.$post->image)}}" alt=""
@@ -22,7 +22,7 @@
             </h6>
 
             <div class="pt-4 pb-4">
-                <h5 class="font-weight-normal">
+                <h5 class="font-weight-normal" style="font-size: 18px;">
                     {!!$post->body!!}
                 </h5>
             </div>

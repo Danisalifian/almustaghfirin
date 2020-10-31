@@ -3,7 +3,7 @@
 
 <style>
 #map {
-  height: 500px;
+  height: 600px;
   width: 100%;
 }
 </style>
@@ -22,7 +22,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.16.0/css/mdb.min.css" rel="stylesheet">
-    <!-- <link rel="stylesheet" type="text/css" href="{{asset('assets/client/css/styles.css')}}"> -->
+     <link rel="stylesheet" type="text/css" href="{{asset('assets/client/css/style.css')}}"> 
 </head>
 
 <body>

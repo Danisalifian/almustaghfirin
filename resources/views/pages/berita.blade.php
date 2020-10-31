@@ -4,7 +4,7 @@
         <div class="container pt-4 pb-2">
             <h2 class="font-weight-bolder">
                 Berita
-                <hr style="border: 1.5px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
+                <hr style="border: 2px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px; " />
             </h2>
 
             <div class="row pt-2">

@@ -4,7 +4,7 @@
         <div class="container pt-4 pb-2">
             <h3 class="font-weight-bolder">
                 Galeri / Gambar
-                <hr style="border: 1.5px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
+                <hr style="border: 2px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
             </h3>    
 
             <div class="row pt-2">

@@ -40,3 +40,9 @@ Auth::routes([
 
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 Route::get('/bantuan', 'DashboardController@bantuan')->name('bantuan');
+
+Route::get('/foo', function () {
+    Artisan::call('storage:link');
+    
+    return 'success';
+});

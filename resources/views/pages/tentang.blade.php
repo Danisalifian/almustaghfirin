@@ -4,7 +4,7 @@
         <div class="container pt-4 pb-4">
             <h2 class="font-weight-bolder pb-4">
                 Tentang
-                <hr style="border: 1.5px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
+                <hr style="border: 2px solid; color: #3f51b5; margin-top: 5px; margin-left: 0px;" >
             </h2>
 
             <div class="row pt-4 pb-4">

@@ -13,19 +13,35 @@
                         </h4>
                     </div>
                     <div class="loction-info white font-weight-bold">
-                        <p>Jl. Pringgondani II RT 02/III Bangetayu Wetan Genuk Semarang<br>Jawa Tengah 50115</p>
+                        <p>JL. Bangetayu Wetan RT02/RW 03, Kel. Bangetayu Wetan, Kec.
+Genuk, Semarang<br>Jawa Tengah 50115</p>
                         <h6 class="font-weight-bold pt-2">
                             Email
                             <span style="margin-left: 40px">
                                 arinofficial.id@gmail.com
                             </span>
                         </h6>
-                        <h6 class="font-weight-bold pt-2">
+                        <h6 class="font-weight-bold pt-2 pb-4">
                             Telepon    
                             <span style="margin-left: 22px">
                                 081 228 164 73 | 082 134 813 122
                             </span>
                         </h6>
+                        
+                        <h4 class="font-weight-bold pt-2">
+                            Salurkan donasi anda   
+                        </h4>
+                        <div class="h-25 pb-2">
+                            <div class="font-weight-bolder">Bank BCA</div>
+                            <div class="font-weight-normal">A/C No: 3531009833</div>
+                            <div class="font-weight-normal">A/N : Panti Asuhan Al-mustaghfirin</div>
+                        </div>
+                        <div class="h-25 pb-2">
+                            <div class="font-weight-bolder">Bank Jateng</div>
+                            <div class="font-weight-normal">A/C No: 2-021-23683-23</div>   
+                            <div class="font-weight-normal">A/N : Panti Asuhan Al-mustaghfirin</div>
+                        </div>
+
                     </div>
                 </div>
             </div>
